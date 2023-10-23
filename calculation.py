@@ -23,8 +23,3 @@ def div(a, b):
     """Division function"""
     return int(a / b)
 
- $ ./0_calculation.py 
-4 + 2 = 6
-4 - 2 = 2
-4 * 2 = 8
-4 / 2 = 2
